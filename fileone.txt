@@ -1,0 +1,2 @@
+Hello All,
+I work for Johnson & Johnson, and I am currently working on a project called Armageddon 2026. This project is a simulation of a global catastrophe, and we are using it to test our disaster response plans. We have a team of developers who are working on the simulation, and we are using Git for version control.

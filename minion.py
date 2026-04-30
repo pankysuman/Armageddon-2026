@@ -1,0 +1,1 @@
+## A file to check if the minion is alive or not, and to handle the minion's health and damage.

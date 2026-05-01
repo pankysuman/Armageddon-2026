@@ -1,1 +1,7 @@
 again this is a test file to check if the minion is alive or not, and to handle the minion's health and damage.
+The minion has a health of 100 and can take damage from the player. If the minion's health drops to 0 or below, it is considered dead. The player can attack the minion with a weapon that deals a certain amount of damage.
+The minion can also attack the player, dealing damage to the player's health. 
+The player must manage their health and resources to survive against the minion and other enemies in the game.
+
+
+Hey Arin How are you doing? I hope you are doing well. I just wanted to check in and see how things are going with the game development. Let me know if you need any help or if there is anything I can do to assist you. Take care!
